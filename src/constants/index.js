@@ -318,7 +318,7 @@ const projects = [
     ],
     image: foodil,
     // source_code_link: "https://github.com/",
-    live_demo_link: "https://foodil.com/",
+    live_demo_link: "https://foodil.co/",
   },
   {
     name: "Project Neeca",
